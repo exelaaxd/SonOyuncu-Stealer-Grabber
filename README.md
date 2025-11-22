@@ -1,0 +1,1 @@
+------------------ Stealeri Kullanmak İçin Bıraktığım Exeyi Açıp Webhookunuzu Girip Build Etmeniz. Gerekir ----------------------
